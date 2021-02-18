@@ -1,0 +1,17 @@
+1 - Dealing with Uncertainty - Exploration of encoding space
+2 - Progression and Development - Size of library, how often each symbol is used on average for new, more complicated symbols
+3 - Variety Divergence and Experimentation - Average map of symbols and differences for each symbol
+
+Medium - Social Interaction and Communication
+Medium - Intention and Emotional Involvement
+Medium - Spontaneity / Subconscious Processing
+Medium - Active Involvement and Persistence
+Medium - Originality
+Medium - Creation of Results
+Medium - General Intellectual Ability
+Medium High - Thinking and Evaluation
+
+Low - Domain Competence
+Low - Value
+Low - Independence and Freedom
+
